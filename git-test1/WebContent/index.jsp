@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>메인페이지 입니다.</h1>
+	<div>안녕하세요</div>
 </body>
 </html>
